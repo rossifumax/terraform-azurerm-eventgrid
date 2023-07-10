@@ -2,4 +2,4 @@ name: CI
 on: [push, pull_request]
 jobs:
   ci:
-    uses: claranet/terraform-modules-ci/.github/workflows/ci-modules.yaml@main
+    uses: rossifumax/terraform-modules-ci/.github/workflows/ci-modules.yaml@AZ-1113-update-tfdocs-sumodule
